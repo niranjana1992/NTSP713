@@ -1,5 +1,10 @@
 package com.nt.test;
 
-public class test {
+import com.nt.beans.Utility;
 
+public class test {
+public static void main(String[] args) {
+	Utility u = new Utility();
+	System.out.println(u.getSysDate());
+}
 }
