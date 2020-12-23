@@ -11,6 +11,7 @@ public class Utility {
 		{
 
 			System.out.println("m1 method....& conflict create");
+			System.out.println("i praticed ignore case");
 
 		}
 }
